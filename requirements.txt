@@ -1,5 +1,8 @@
-streamlit 
-opencv-python
+streamlit==1.35.0
+opencv-python-headless
 mediapipe
-deepface
+deepface==0.0.83
 numpy
+pandas
+tensorflow==2.12.0
+keras==2.12.0
